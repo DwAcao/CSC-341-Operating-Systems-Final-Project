@@ -44,6 +44,7 @@ Project Choice:
 •	Download, build, and run MINIX. See: https://www.minix3.org/Links to an external site. 
 o	Pick a part of the OS, say CPU scheduling, and make a change on the algorithm(s) used. Then compile the kernel and rerun.
 o	You should do this in a virtual machine, such as VirtualBox (https://www.virtualbox.org/Links to an external site.)
+
 •	Download and compile Linux. Make some small changes to the code base and then test your results.
 o	See: https://github.com/torvalds/linuxLinks to an external site.
 o	You can pick something as simple as the shell, and make an alteration of the code. It doesn’t need to be in the kernel.
