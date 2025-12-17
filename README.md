@@ -41,6 +41,7 @@ Purpose: Links abstract scheduling theory (preemption, quanta tradeoffs)
 to observable behavior in real operating systems.
 
 Project Choice:
+
 •	Download, build, and run MINIX. See: https://www.minix3.org/Links to an external site. 
 o	Pick a part of the OS, say CPU scheduling, and make a change on the algorithm(s) used. Then compile the kernel and rerun.
 o	You should do this in a virtual machine, such as VirtualBox (https://www.virtualbox.org/Links to an external site.)
